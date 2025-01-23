@@ -1,0 +1,4 @@
+aiohttp
+requests
+gradio_client
+aiogram==3.0.0
